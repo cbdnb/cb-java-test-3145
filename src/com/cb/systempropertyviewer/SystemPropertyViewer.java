@@ -6,7 +6,7 @@ import java.util.Properties;
 public class SystemPropertyViewer {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("Die Properties");
 		prontProp();
 		
 	}
