@@ -6,7 +6,7 @@ import java.util.Properties;
 public class SystemPropertyViewer {
 
 	public static void main(String[] args) {
-		System.out.println("Die Properties anzeigen, weil es wirklich nett ist:");
+		System.out.println("Die Properties anzeigen, weil es wirklich so nett ist:");
 		prontProp();
 		
 	}
